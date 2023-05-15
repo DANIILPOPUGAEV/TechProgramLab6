@@ -84,7 +84,6 @@ void Main::MainFunction()
 			}
 		}
 	}
-
 	delete[] electronical;
 	delete[] mechanical; //очищение памяти
 }
